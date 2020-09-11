@@ -12,7 +12,7 @@ Outils nécessaires :
 ## Installation sous OS X
 
 ### Docker
-- cliquez sur Download from docker Hub,
+- téléchargez l'outil Docker depuis le site https://www.docker.com/products/docker-desktop,
 - créez un compte (mail HEIG-VD + mot de passe),
 - téléchargez le fichier,
 - exécutez le fichier  que vous venez de télécharger,
@@ -38,7 +38,7 @@ En fin d'installation, un lien http local (http:127.0.0.1:8888/?token=....) est 
 
 ### Docker
 
-- cliquez sur Download from docker Hub,
+- téléchargez l'outil Docker depuis le site https://www.docker.com/products/docker-desktop,
 - créez un compte (mail HEIG-VD + mot de passe),
 - téléchargez le fichier,
 - exécutez le fichier .exe que vous venez de télécharger,

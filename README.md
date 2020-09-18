@@ -2,7 +2,11 @@
 
 Ce cours va vous permettre de vous familiariser avec des techniques de traitement du signal appliqué à des problématiques concrêtes. Le cours `TraiSignAp` est exclusivement réalisé sous la forme de travaux de laboratoires. 
 
-## Liste des labos prévus
+Le but de ce cours est de vous faire développer une bibliothèque d'outils pour le traitement appliqué de signaux afin d'en extraire des caractéristiques spécifiques. 
+
+Lors des évaluations, vous devrez utiliser ces outils que vous avez mis au point pour résoudre de nouveaux problèmes.
+
+## Liste des labos prévus
 
 - les bases du langage Python,
 - la corrélation,
@@ -11,7 +15,11 @@ Ce cours va vous permettre de vous familiariser avec des techniques de traitemen
 - analyse de la parole,
 - filtrage adaptatif.
 
-Pour chaque labo, un lien vous est donné, lien qui vous permet de récupérer la donnée du labo, les *templates* pour le travail à réaliser ainsi que les données à utiliser.
+Pour chaque labo, un lien vous est envoyé par courriel, lien qui vous permet de récupérer :
+- la donnée du labo, 
+- les modèles pour le travail à réaliser,
+- les données à utiliser,
+- les résultats attendus.
 
 ## Evaluation
 

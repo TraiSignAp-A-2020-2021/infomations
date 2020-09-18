@@ -2,7 +2,7 @@
 
 Ce cours va vous permettre de vous familiariser avec des techniques de traitement du signal appliqué à des problématiques concrêtes. Le cours `TraiSignAp` est exclusivement réalisé sous la forme de travaux de laboratoires. 
 
-Le but de ce cours est de vous faire développer une bibliothèque d'outils pour le traitement appliqué de signaux afin d'en extraire des caractéristiques spécifiques. 
+Le but de ce cours est de vous faire développer **une bibliothèque d'outils en Python** pour le traitement appliqué de signaux afin d'en extraire des caractéristiques spécifiques. 
 
 Lors des évaluations, vous devrez utiliser ces outils que vous avez mis au point pour résoudre de nouveaux problèmes.
 
